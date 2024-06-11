@@ -1,0 +1,34 @@
+.custom-rounded {
+    border-radius: 50px; /* Sesuaikan nilai sesuai keinginan */
+  }
+          .bg-1 {
+      background-color: #2C3639;
+    }
+    
+    
+    .bg-2 {
+      background-color: #3F4E4F; /* Contoh warna merah */
+    }
+  
+  
+    .bg-3 {
+      background-color: #A27B5C; /* Contoh warna merah */
+    }
+  
+    .bg-4 {
+      background-color: #DCD7C9; /* Contoh warna merah */
+    }
+    .custom-button {
+    background-color: #41644A; /* Warna latar belakang biru */
+    color: #fff; /* Warna teks putih */
+    border: none; /* Tanpa border */
+    padding: 10px 20px; /* Padding tombol */
+    border-radius: 5px; /* Bulatan sudut tombol */
+    cursor: pointer;
+    text-decoration: none;
+    
+    }
+    .custom-button:hover {
+        color: #ff0000; 
+    }
+    
